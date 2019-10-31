@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testcallback\testCallBackFun\bin\Debug\netcoreapp2.1\testCallBackFun.deps.json
+C:\Users\admin\source\repos\testcallback\testCallBackFun\bin\Debug\netcoreapp2.1\testCallBackFun.runtimeconfig.json
+C:\Users\admin\source\repos\testcallback\testCallBackFun\bin\Debug\netcoreapp2.1\testCallBackFun.runtimeconfig.dev.json
+C:\Users\admin\source\repos\testcallback\testCallBackFun\bin\Debug\netcoreapp2.1\testCallBackFun.dll
+C:\Users\admin\source\repos\testcallback\testCallBackFun\bin\Debug\netcoreapp2.1\testCallBackFun.pdb
+C:\Users\admin\source\repos\testcallback\testCallBackFun\obj\Debug\netcoreapp2.1\testCallBackFun.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testcallback\testCallBackFun\obj\Debug\netcoreapp2.1\testCallBackFun.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\testcallback\testCallBackFun\obj\Debug\netcoreapp2.1\testCallBackFun.AssemblyInfo.cs
+C:\Users\admin\source\repos\testcallback\testCallBackFun\obj\Debug\netcoreapp2.1\testCallBackFun.dll
+C:\Users\admin\source\repos\testcallback\testCallBackFun\obj\Debug\netcoreapp2.1\testCallBackFun.pdb

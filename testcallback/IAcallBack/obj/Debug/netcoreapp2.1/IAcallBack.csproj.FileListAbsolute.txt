@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testcallback\IAcallBack\bin\Debug\netcoreapp2.1\IAcallBack.deps.json
+C:\Users\admin\source\repos\testcallback\IAcallBack\bin\Debug\netcoreapp2.1\IAcallBack.runtimeconfig.json
+C:\Users\admin\source\repos\testcallback\IAcallBack\bin\Debug\netcoreapp2.1\IAcallBack.runtimeconfig.dev.json
+C:\Users\admin\source\repos\testcallback\IAcallBack\bin\Debug\netcoreapp2.1\IAcallBack.dll
+C:\Users\admin\source\repos\testcallback\IAcallBack\bin\Debug\netcoreapp2.1\IAcallBack.pdb
+C:\Users\admin\source\repos\testcallback\IAcallBack\obj\Debug\netcoreapp2.1\IAcallBack.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testcallback\IAcallBack\obj\Debug\netcoreapp2.1\IAcallBack.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\testcallback\IAcallBack\obj\Debug\netcoreapp2.1\IAcallBack.AssemblyInfo.cs
+C:\Users\admin\source\repos\testcallback\IAcallBack\obj\Debug\netcoreapp2.1\IAcallBack.dll
+C:\Users\admin\source\repos\testcallback\IAcallBack\obj\Debug\netcoreapp2.1\IAcallBack.pdb
